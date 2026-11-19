@@ -1,0 +1,28 @@
+body{
+    margin: 0;
+    background-color: beige;
+}
+
+h1{
+    text-align: center;
+}
+
+section{
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    display: flex;
+    gap: 50px;
+}
+
+.projeto1{
+    background-color: brown;
+    padding: 10px;
+    border-radius: 14px;
+}
+
+.projeto2{
+    background-color: brown;
+    padding: 10px;
+    border-radius: 14px;
+}
